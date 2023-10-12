@@ -1,2 +1,2 @@
 # requirements.txt
---upgrade snowflake-connector-python
+snowflake-connector-python
